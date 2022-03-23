@@ -1,1 +1,3 @@
+# Documents qui seront IGNORÉ par git lors de la sauvegarde
+## Partique pour ne pas prendre en compte les fichiers temporaire
 .idea
